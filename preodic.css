@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+
+table{
+   
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    
+}
+td{
+    border: 1px solid #2f2d2dc7 ;
+    padding: 15px;
+    margin: 150px auto ;
+    /* height: 10px; */
+    justify-content: center;
+    
+}
+td{
+    empty-cells: hide;
+}
+.ligtyellow{
+    background-color:rgb(223 196 104 / 57%);
+}
+.pink{
+    background-color: rgba(197, 94, 112, 0.74);
+} 
+.peach{
+     background-color:darksalmon;
+}
+.purple{
+    background-color: rgb(245 197 245);
+}
+.blue{
+    background-color: rgb(136 159 223 / 87%);
+}
+.secondlast{
+    background-color: rgb(208, 129, 228);
+}
+.skyblue{
+    background-color:  rgb(166 225 249);
+}
+.cream{
+    background-color: rgb(247, 247, 150);
+}
+.darkpurple{
+    background-color: rgb(178 134 219);
+}
+.darkbluesky{
+    background-color: rgb(57 223 229 / 59%);
+}
